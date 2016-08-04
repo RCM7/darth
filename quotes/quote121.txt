@@ -1,0 +1,7 @@
+
+It is important to note that probably no large operating system using current
+design technology can withstand a determined and well-coordinated attack,
+and that most such documented penetrations have been remarkably easy.
+-- B. Hebbard, "A Penetration Analysis of the Michigan Terminal System",
+Operating Systems Review, Vol. 14, No. 1, June 1980, pp. 7-20
+

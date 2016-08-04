@@ -1,0 +1,7 @@
+
+In the pitiful, multipage, connection-boxed form to which the flowchart has
+today been elaborated, it has proved to be useless as a design tool --
+programmers draw flowcharts after, not before, writing the programs they
+describe.
+- Fred Brooks, Jr.
+

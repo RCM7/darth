@@ -1,0 +1,8 @@
+
+Software entities are more complex for their size than perhaps any other human
+construct because no two parts are alike.  If they are, we make the two
+similar parts into a subroutine -- open or closed.  In this respect, software
+systems differ profoundly from computers, buildings, or automobiles, where
+repeated elements abound.
+- Fred Brooks, Jr.
+

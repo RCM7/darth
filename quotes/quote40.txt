@@ -1,0 +1,12 @@
+
+Do not allow this language (Ada) in its present state to be used in
+applications where reliability is critical, i.e., nuclear power stations,
+cruise missiles, early warning systems, anti-ballistic missle defense
+systems.  The next rocket to go astray as a result of a programming language
+error may not be an exploratory space rocket on a harmless trip to Venus:
+It may be a nuclear warhead exploding over one of our cities.  An unreliable
+programming language generating unreliable programs constitutes a far
+greater risk to our environment and to our society than unsafe cars, toxic
+pesticides, or accidents at nuclear power stations.
+- C. A. R. Hoare
+

@@ -1,0 +1,5 @@
+
+If it's working, the diagnostics say it's fine.
+If it's not working, the diagnostics say it's fine.
+- A proposed addition to rules for realtime programming
+

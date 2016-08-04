@@ -1,0 +1,4 @@
+
+Do not underestimate the value of print statements for debugging.
+Don't have aesthetic convulsions when using them, either.
+

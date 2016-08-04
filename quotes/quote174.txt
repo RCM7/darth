@@ -1,0 +1,6 @@
+
+People are very flexible and learn to adjust to strange
+surroundings -- they can become accustomed to read Lisp and
+Fortran programs, for example.
+- Leon Sterling and Ehud Shapiro, Art of Prolog, MIT Press
+

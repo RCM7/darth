@@ -1,0 +1,7 @@
+
+Digital computers are themselves more complex than most things people build:
+They hyave very large numbers of states.  This makes conceiving, describing,
+and testing them hard.  Software systems have orders-of-magnitude more states
+than computers do.
+- Fred Brooks, Jr.
+
